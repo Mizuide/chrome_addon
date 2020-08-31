@@ -1,0 +1,13 @@
+{
+    "name": "Getting Started Example",
+    "version": "1",
+    "description": "Build an Extension!",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "img/get_started32.png"
+      }
+    },
+    "manifest_version": 2
+}
